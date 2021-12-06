@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+    background-color: cornflowerblue;
+    min-width: fit-content;
+}
+h2{
+    color: violet;
+    background-color: skyblue;
+}
+p{
+    color: white;
+    background-color: black;
+}
